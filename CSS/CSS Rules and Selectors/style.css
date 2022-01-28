@@ -1,0 +1,14 @@
+#intro {
+    color: white;
+    background-color: gray;
+}
+
+.first {
+    font-size: 200%;
+}
+
+#intro .first em {
+    color: pink;
+    background-color: yellow;
+}   
+
