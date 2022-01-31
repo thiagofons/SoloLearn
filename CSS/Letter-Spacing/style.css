@@ -1,0 +1,6 @@
+p.normal {
+    letter-spacing: normal;
+}
+p.positive {
+    letter-spacing: -4px;
+}

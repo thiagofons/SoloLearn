@@ -1,0 +1,6 @@
+p.normal {
+    word-spacing: normal;
+}
+p.px {
+    word-spacing: -10px;
+}
