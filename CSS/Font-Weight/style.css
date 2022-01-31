@@ -1,0 +1,9 @@
+p.light {
+    font-weight: lighter;
+}
+p.bold {
+    font-weight: bold;
+}
+p.bolder {
+    font-weight: bolder;
+}

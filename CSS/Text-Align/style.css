@@ -1,0 +1,22 @@
+p.left {
+    text-align: left;
+}
+p.center {
+    text-align: center;
+}
+p.right {
+    text-align: right;
+}
+p.justify {
+    text-align: justify;
+}
+
+td.top {
+    vertical-align: top;
+}
+td.middle {
+    vertical-align: middle;
+}
+td.bottom {
+    vertical-align: bottom;
+}
