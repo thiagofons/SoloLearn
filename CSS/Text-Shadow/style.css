@@ -1,0 +1,6 @@
+h1 {
+    color: blue;
+    font-size: 30pt;
+    text-shadow: 5px 2px 4px grey;
+    /* x, y, blur radius, color */
+}

@@ -20,3 +20,27 @@ td.middle {
 td.bottom {
     vertical-align: bottom;
 }
+
+span.baseline {
+    vertical-align: baseline;
+}
+span.sub {
+    vertical-align: sub;
+}
+span.super {
+    vertical-align: super;
+}
+span.pixel {
+    vertical-align: -20px;
+}
+
+.main {
+    height: 150px; width: 400px;
+    background-color: lightskyblue;
+    display: inline-table;
+}
+
+.paragraph {
+    display: table-cell;
+    vertical-align: middle;
+}
