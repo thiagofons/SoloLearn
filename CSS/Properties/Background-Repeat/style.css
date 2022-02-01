@@ -1,0 +1,11 @@
+body {
+    background-image: url("images/css_logo.png");
+    background-repeat: repeat-x;
+}
+
+p {
+    background-image: url("images/css_logo.png");
+    background-repeat: inherit;
+    margin-top: 100px;
+    padding: 40px;
+}

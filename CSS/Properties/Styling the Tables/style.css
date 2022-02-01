@@ -1,0 +1,11 @@
+table {
+    border-collapse: separate;
+
+    caption-side: top;
+
+    empty-cells: hide;
+
+    table-layout: auto;
+
+    width: 1000px;
+}

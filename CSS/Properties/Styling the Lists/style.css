@@ -1,0 +1,8 @@
+ol.lower-alpha {
+    list-style-type: lower-alpha;
+}
+
+ul {
+    list-style: square outside none;
+    
+}
