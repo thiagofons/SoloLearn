@@ -1,0 +1,26 @@
+p.position_static {
+    position: static;
+    top: 50px;
+    right: 5px;
+    color: red;
+}
+
+p.position_fixed {
+    position: fixed;
+    top: 30px;
+    right: 5px;
+    color: blue;
+}
+
+p.position_relative {
+    width: 350px;
+    border: 1px solid black;
+    position: fixed;
+}
+span {
+    background: green;
+    color: white;
+    position: relative;
+    top: 150px;
+
+}
