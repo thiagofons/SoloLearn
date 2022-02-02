@@ -1,0 +1,23 @@
+div.rounded-corners {
+    display: inline-block;
+
+    position: fixed;
+
+    padding: 30px;
+    top: 10px;
+
+    border-radius: 0px 0px 20px 20px;
+    background-color: green;
+    color: white;
+}
+
+div.circle {
+
+    width: 200px;
+    height: 200px;
+
+    border-radius: 100px;
+
+    background-color: greenyellow;
+    color: white;
+}
