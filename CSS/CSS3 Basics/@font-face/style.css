@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Gonzi;
+    src: url("fonts/GonziExpandedPERSONALUSE-Regular.otf");
+}
+@font-face {
+    font-family: Gonzi;
+    font-weight: bold;
+    src: url("fonts/GonziExpandedPERSONALUSE-Bold.otf");
+}
+h1 {
+    font-family: Gonzi, sans-serif;
+}

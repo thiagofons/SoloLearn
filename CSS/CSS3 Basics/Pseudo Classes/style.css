@@ -1,0 +1,9 @@
+#parent p:first-child {
+    color: green;
+    text-decoration: underline;
+}
+
+#parent p:last-child {
+    color: red;
+    text-decoration: underline;
+}
