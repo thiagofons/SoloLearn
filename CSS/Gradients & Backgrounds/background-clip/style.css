@@ -1,0 +1,19 @@
+#first {
+    width: 100px;
+
+    border: 2px dotted black;
+    padding: 20px;
+
+    background: url('images/dvd.png');
+    background-clip: padding-box;
+}
+
+#second {
+    width: 100px;
+
+    border: 2px dotted black;
+    padding: 20px;
+
+    background: lightblue;
+    background-clip: content-box;
+}

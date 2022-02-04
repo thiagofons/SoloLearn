@@ -1,0 +1,9 @@
+div {
+    height: 150px;
+    width: 200px;
+
+    border: 1px solid black;
+
+    background: url("images/dvd.png") no-repeat 50% 50%;
+    background-size: contain;
+}

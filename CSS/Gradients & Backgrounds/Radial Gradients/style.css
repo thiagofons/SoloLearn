@@ -1,0 +1,16 @@
+div.first {
+    height: 150px;
+    width: 200px;
+    color: #FFF;
+
+    background: radial-gradient(green, yellow, blue);
+}
+
+div.second {
+    height: 150px;
+    width: 200px;
+    color: #FFF;
+
+    background: radial-gradient(circle, green 5%, yellow 15%, blue 60%);
+}
+
